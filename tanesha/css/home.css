@@ -3,7 +3,7 @@
 	width: 100%;
 	height: 600px;
 	background-color: #000;
-	background-image: url("img/slide-2.jpg");
+	background-image: url("https://krishnaanandh.github.io/mycdn/tanesha/css/img/slide-2.jpg");
 	
 	background-attachment: fixed;
 }
@@ -128,7 +128,7 @@ padding-bottom:50px;
 .h-service .parallax{
 	z-index: -1;
 	width: 100%;
-	background-image: url("img/service_bg.jpg");
+	background-image: url("https://krishnaanandh.github.io/mycdn/tanesha/css/img/service_bg.jpg");
 	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
