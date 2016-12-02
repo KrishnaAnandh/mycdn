@@ -305,7 +305,7 @@ padding-bottom:50px;
 .msg-body{
 	text-align: center;
 }
-input[type="email" i], input[type="number" i], input[type="password" i], input[type="tel" i], input[type="url" i], input[type="text" i] {
+input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="url"], input[type="text"] {
 	font-family: 'PT Sans', Arial, Sans-serif;
 	font-size: 16px;
 	color: #aaa;
